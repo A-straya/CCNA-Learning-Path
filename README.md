@@ -1,8 +1,7 @@
-# CCNA-Learning-Path
-My complete hands-on Cisco Networking journey
+
 <div align="center">
 
-# 🌐 CCNA Learning Path
+# CCNA Learning Path
 
 ### My complete hands-on Cisco Networking journey
 
@@ -17,7 +16,7 @@ My complete hands-on Cisco Networking journey
 
 ---
 
-# 📖 About
+#  About
 
 Welcome to my **CCNA Learning Path**.
 
@@ -25,15 +24,15 @@ This repository is the central hub for my Cisco networking journey. It organizes
 
 Each lab includes:
 
-- 📄 Professional documentation
-- 🖥️ Cisco Packet Tracer topology
-- ⚙️ Complete router & switch configurations
-- 📸 Verification screenshots
-- ✅ Testing and troubleshooting
+-  Professional documentation
+-  Cisco Packet Tracer topology
+-  Complete router & switch configurations
+-  Verification screenshots
+-  Testing and troubleshooting
 
 ---
 
-# 🎯 Learning Objectives
+#  Learning Objectives
 
 - Build a strong networking foundation
 - Develop enterprise-level Cisco skills
@@ -43,7 +42,7 @@ Each lab includes:
 
 ---
 
-# 🗺️ Learning Roadmap
+#  Learning Roadmap
 
 ## 🟢 Beginner
 
@@ -119,7 +118,7 @@ Each lab includes:
 
 ---
 
-# 📊 Progress
+#  Progress
 
 ```text
 □□□□□□□□□□□□□□ 6 / 36 Labs Completed
@@ -129,7 +128,7 @@ Update the progress bar as you complete each lab.
 
 ---
 
-# 🎯 Final Goal
+#  Final Goal
 Complete all 36 labs to build a strong networking portfolio that demonstrates practical Cisco skills through real-world scenarios, professional documentation, and enterprise-grade configurations.
 
 ---
