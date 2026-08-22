@@ -60,7 +60,7 @@ Each lab includes:
 
 | Status | Lab | Repository |
 |:------:|-----|------------|
-|  | Lab 06 – Enterprise OSPF Multi Area | [Open](https://github.com/A-straya/CCNA-Lab-06-Enterprise-OSPF-Routing) |
+|  | Lab 06 – Enterprise OSPF Multi Area | [Open](https://github.com/A-straya/CCNA-Lab-06-OSPF-MultiArea) |
 |  | Lab 07 – Standard & Extended ACLs | [Open](https://github.com/A-straya/CCNA-Lab-07-Standard-and-Extended-ACLs) |
 |  | Lab 08 – NAT & PAT | [Open](https://github.com/A-straya/CCNA-Lab-08-NAT-and-PAT) |
 |  | Lab 09 – SSH Secure Remote Management | [Open](https://github.com/A-straya/CCNA-Lab-09-SSH-Secure-Remote-Management) |
