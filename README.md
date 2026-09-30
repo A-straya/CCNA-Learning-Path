@@ -41,7 +41,17 @@ Each lab includes:
 - Create a professional networking portfolio
 
 ---
+## CLASS TP 
 
+| Status | Lab | Repository |
+|:------:|-----|------------|
+|  | Class Lab – Etherchannel | [Open](https://github.com/A-straya/classTP-EtherChannel) |
+|  | Class Lab – RapidPVST-PORTFAST-BPDU | [Open](https://github.com/A-straya/ClassTP-RapidPVST-PORTFAST-BPDU) |
+|  | Class Lab –  VLAN-VTP-DHCP-TRUNKING| [Open](https://github.com/A-straya/ClassTP-vlan-vtp-dhcp-lab) |
+|  | Class Lab – InterVLAN-Routing | [Open](https://github.com/A-straya/CCNA-Lab-04-InterVLAN-Routing) |
+|  | Class Lab  – DHCP Configuration | [Open](https://github.com/A-straya/CCNA-Lab-05-DHCP) |
+
+---
 #  Learning Roadmap
 
 ## 🟢 Beginner
