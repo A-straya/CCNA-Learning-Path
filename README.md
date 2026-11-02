@@ -50,6 +50,7 @@ Each lab includes:
 |  | Class Lab –  VLAN-VTP-DHCP-TRUNKING| [Open](https://github.com/A-straya/ClassTP-vlan-vtp-dhcp-lab) |
 |  | Class Lab – InterVLAN-Routing | [Open](https://github.com/A-straya/CCNA-Lab-04-InterVLAN-Routing) |
 |  | Class Lab  – DHCP Configuration | [Open](https://github.com/A-straya/CCNA-Lab-05-DHCP) |
+|  | Class Lab  – ACL-standard-extended | [Open](https://github.com/A-straya) |
 
 ---
 #  Learning Roadmap
